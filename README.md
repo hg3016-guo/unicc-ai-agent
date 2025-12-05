@@ -1,4 +1,4 @@
-# AI Safety Testing
+# AI Safety Agent
 
 An automated AI safety auditing system based on the Inspect AI framework for evaluating the alignment and compliance of Large Language Models (LLMs).
 
